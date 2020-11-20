@@ -10,6 +10,9 @@ The CustomPainter was extended as a stateful widget that return custom component
 Also following trigonometry priciples,clock hand movement was animated following a Time periodic model.
 The project also features icons and new screens to built to allows for Alarm setting functions.
 
+Here is an overview of the project so far.
+![Time Zupdated](https://user-images.githubusercontent.com/64162838/99749426-d3d52680-2ade-11eb-8b48-4b33978e91b0.gif)
+
 
 ![readme-end-banner](https://user-images.githubusercontent.com/64162838/99747118-7dfe7f80-2ada-11eb-8a93-0c8e676b01a9.png)
 
